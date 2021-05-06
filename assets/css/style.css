@@ -6,61 +6,24 @@
     background-color: black;
 }
 
+
+/* CAMBIO DE FUENTE PARA TODOS LOS TEXTOS QUE ESTEN DENTRO DEL BODY */
+
 body {
     font-family: 'Raleway', sans-serif;
 }
 
 
-/* .texto {
-    font-family: 'Lobster', cursive;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 2em;
-}
-
-.texto-promo {
-    font-size: 1.5em;
-}
-
-.imagen-principal {
-    size: 100px;
-}
-
-.texto-boton {
-    font-weight: 500;
-}
-
-.alcentro {
-    text-align: center;
-}
-
-
-/* CSS Document */
-
-.content {
-    width: 1000px;
-    margin-top: 50px;
-    min-height: 600px;
-    background: rgb(37, 160, 197);
-    margin: 0 auto;
-    padding: 20px;
-    font-family: 'Raleway', sans-serif;
-}
-
-.rojo {
-    color: red;
-}
-
-.normal {
-    height: 2em;
-    font-family: 'Raleway', sans-serif;
-}
+/* CAMBIOS EN LA TIPOGRAFIA Y COLOR DEL TITULO EN H1 Y CENTRADO */
 
 h1 {
     text-align: center;
     color: white;
     font-family: 'Raleway', sans-serif;
 }
+
+
+/* CONFIGURACION DE LOS ICONOS UTILIZADOS EN QUIENES SOMOS */
 
 .icono {
     width: 100%;
@@ -69,32 +32,39 @@ h1 {
     text-align: center;
 }
 
+
+/* CAMBIO EN EL COLOR Y LA TIPOGRAFÍA DEL PARRAFO */
+
 p {
     color: white;
     font-family: 'Raleway', sans-serif;
 }
 
+
+/* CAMBIO EN EL TAMAÑO DE LA IMAGEN DE LA TARJETA EN LA SECCION DESTACADOS */
+
 .imagen {
     height: 10rem;
 }
 
+
+/* CAMBIO DE COLOR DE FONDO EN LAS TARJETAS DE LA SECCION DESTACADOS */
+
 .tarjeta {
     background-color: #0FA3B8;
 }
+
+
+/* CAMBIO DE COLOR DE LOS TEXTOS H5 */
 
 h5 {
     color: white;
     border-color: aliceblue;
 }
 
-.fondoblanco {
-    background-color: white;
-}
+
+/* TAMAÑO DEL LOGO EN LA CABECERA */
 
 .logo {
     height: 2em;
-}
-
-.derecha {
-    text-align: right;
 }
