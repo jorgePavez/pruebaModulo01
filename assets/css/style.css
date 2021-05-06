@@ -68,3 +68,11 @@ h5 {
 .logo {
     height: 2em;
 }
+
+
+/* forma simple de hacer un scroll sin usar js*/
+
+
+/* html {
+    scroll-behavior: smooth;
+} */
