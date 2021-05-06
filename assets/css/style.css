@@ -49,3 +49,7 @@
 .normal {
     height: 2em;
 }
+
+.titulo {
+    text-align: center;
+}
