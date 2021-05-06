@@ -1,4 +1,13 @@
-.texto {
+.navegacion {
+    background-color: transparent;
+}
+
+.negro {
+    background-color: black;
+}
+
+
+/* .texto {
     font-family: 'Lobster', cursive;
     font-weight: 400;
     color: #ffffff;
