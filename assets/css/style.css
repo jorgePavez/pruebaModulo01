@@ -1,0 +1,42 @@
+.texto {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 2em;
+}
+
+.texto-promo {
+    font-size: 1.5em;
+}
+
+.imagen-principal {
+    size: 100px;
+}
+
+.texto-boton {
+    font-weight: 500;
+}
+
+.alcentro {
+    text-align: center;
+}
+
+
+/* CSS Document */
+
+.content {
+    width: 1000px;
+    margin-top: 50px;
+    min-height: 600px;
+    background: rgb(37, 160, 197);
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.rojo {
+    color: red;
+}
+
+.normal {
+    height: 2em;
+}
