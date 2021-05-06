@@ -6,6 +6,10 @@
     background-color: black;
 }
 
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
 
 /* .texto {
     font-family: 'Lobster', cursive;
@@ -40,6 +44,7 @@
     background: rgb(37, 160, 197);
     margin: 0 auto;
     padding: 20px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .rojo {
@@ -48,11 +53,13 @@
 
 .normal {
     height: 2em;
+    font-family: 'Raleway', sans-serif;
 }
 
 h1 {
     text-align: center;
     color: white;
+    font-family: 'Raleway', sans-serif;
 }
 
 .icono {
@@ -64,6 +71,7 @@ h1 {
 
 p {
     color: white;
+    font-family: 'Raleway', sans-serif;
 }
 
 .imagen {
@@ -81,4 +89,12 @@ h5 {
 
 .fondoblanco {
     background-color: white;
+}
+
+.logo {
+    height: 2em;
+}
+
+.derecha {
+    text-align: right;
 }
